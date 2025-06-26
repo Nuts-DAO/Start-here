@@ -1,5 +1,6 @@
 # Start-here
-**# Welcome to the NutsDAO Developer Champions Program 🌰🔥
+
+## Welcome to the NutsDAO Developer Champions Program 🌰🔥
 
 This repository contains everything you need to start your journey with NutsDAO:
 
