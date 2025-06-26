@@ -1,8 +1,6 @@
 # Start-here
 **# Welcome to the NutsDAO Developer Champions Program 🌰🔥
 
-![Banner Image](link-to-banner-image)
-
 This repository contains everything you need to start your journey with NutsDAO:
 
 - What is the NutsDAO Developer Champions Program?  
@@ -104,4 +102,7 @@ Every Champion gains access to tools, visibility, and rewards:
 - Receive DAO vote (via $veNUTS)  
 - Grants disbursed upon approval, with DAO progress tracking
 
-**
+
+Contect us：Nutsdao@outlook.com
+
+
